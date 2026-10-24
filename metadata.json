@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard AI - Enterprise Autonomous Intelligence Platform",
+  "description": "Enterprise-grade AI-driven SaaS platform delivering neural orchestration, autonomous agent infrastructure, and industry solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
